@@ -1,0 +1,6 @@
+C:\Users\Админ\source\repos\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\Debug\AnastasiyaTokmashevaCLR.vcxproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\Debug\AnastasiyaTokmashevaCLR.MyForm.resources
+C:\Users\Админ\source\repos\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\Debug\AnastasiyaTokmashevaCLR.vcxproj.GenerateResource.cache
+C:\Users\unknown\Desktop\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\Debug\AnastasiyaTokmashevaCLR.vcxproj.AssemblyReference.cache
+C:\Users\unknown\Desktop\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\Debug\AnastasiyaTokmashevaCLR.MyForm.resources
+C:\Users\unknown\Desktop\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\AnastasiyaTokmashevaCLR\Debug\AnastasiyaTokmashevaCLR.vcxproj.GenerateResource.cache
